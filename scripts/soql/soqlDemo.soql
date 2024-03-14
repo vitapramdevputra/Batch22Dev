@@ -1,0 +1,4 @@
+SELECT ID, name, phone, active__c FROM Account
+
+SELECT ID, name, phone, email from contact
+
